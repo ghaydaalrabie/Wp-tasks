@@ -1,0 +1,6 @@
+[2022-09-04 15:56:31] merlin-logger.DEBUG: The welcome step has been displayed [] []
+[2022-09-04 15:56:47] merlin-logger.DEBUG: The plugin installation step has been displayed [] []
+[2022-09-04 15:57:03] merlin-logger.DEBUG: A plugin with the following data will be processed {"plugin_slug":"mailchimp-for-wp","message":"Installing"} []
+[2022-09-04 15:57:12] merlin-logger.DEBUG: The content import step has been displayed [] []
+[2022-09-04 15:57:13] merlin-logger.DEBUG: A plugin with the following data was processed {"plugin_slug":"mailchimp-for-wp"} []
+[2022-09-04 15:57:21] merlin-logger.DEBUG: The final step has been displayed [] []
